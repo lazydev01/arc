@@ -5,8 +5,8 @@ export default function Register() {
   return (
     <div>
       <div className="register-form my-3">
-        <span className="border border-success rounded1">
-          <form className="pad">
+        <span className="border border-success rounded1 marg">
+          <form className="pad mx-5 ">
             <div className="mb-3">
               <label htmlFor="exampleInputEmail1" className="form-label">
                 Username
