@@ -1,0 +1,19 @@
+.Login-container{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+
+}
+.height{
+   height:200px;
+}
+.pad{
+    margin: 0 12px;
+    padding: 15px 0px;
+}
+.rounded1{
+    border-radius: 10px
+}

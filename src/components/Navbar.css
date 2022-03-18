@@ -1,0 +1,13 @@
+.register-form{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+
+}
+
+.redirectToLogin{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
