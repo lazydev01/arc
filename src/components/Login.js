@@ -6,7 +6,7 @@ export default function Login() {
     <div className="Login-container">
         <div className="height">
         </div>
-        <span className="border border-success rounded1">
+        <span className="border border-success rounded1 marg">
       <form class = "pad">
   <div className="mb-3">
     <label for="exampleInputEmail1" className="form-label">Email address</label>
